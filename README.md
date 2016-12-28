@@ -1,2 +1,2 @@
-# googlepacman.js
-google pacman js
+# googlePacmanJavaScript
+
