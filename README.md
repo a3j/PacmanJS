@@ -1,3 +1,2 @@
-© Google
-A Google pacman game, made with JavaScript.
+A Google Pacman game, made with JavaScript.
 
